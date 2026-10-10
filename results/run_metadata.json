@@ -1,0 +1,14 @@
+{
+  "ticker": "^NSEI",
+  "provider": "Yahoo Finance via yfinance",
+  "period_requested": "10y",
+  "interval": "1d",
+  "auto_adjust": true,
+  "downloaded_at_utc": "2026-10-10T19:55:21.589411+00:00",
+  "first_observation": "2016-10-10",
+  "last_observation": "2026-10-09",
+  "number_of_price_rows": 2466,
+  "python_version": "3.13.16",
+  "pandas_version": "2.2.3",
+  "numpy_version": "2.1.3"
+}
